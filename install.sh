@@ -14,3 +14,4 @@ mv quran_recitation.py ~/bin/Quran
 
 echo "Installation complete."
 echo "You can now run the program by typing 'Quran' in the terminal."
+echo "Type 'q' to go previous page."
