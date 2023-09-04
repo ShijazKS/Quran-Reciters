@@ -33,8 +33,8 @@ chmod +x intall.sh
 ```
 
 ## Usage
-To use the program, users run the '**Quran**' command in their terminal. They can then navigate through a list of reciters, select a reciter, explore available Quranic chapters, and play the selected chapter's recitation.Type '**q**' to previous page and close the program.
+To use the program, users run the `Quran` command in their terminal. They can then navigate through a list of reciters, select a reciter, explore available Quranic chapters, and play the selected chapter's recitation.Type `q` to previous page and close the program.
 
 ## License
-This project is licensed under the [MIT License]() - see the [LICENSE.md]() file for details.
+This project is licensed under the [MIT License]() - see the [LICENSE.md](https://github.com/ShijazKS/Quran-Reciters/blob/main/LICENSE) file for details.
 
