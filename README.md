@@ -28,7 +28,7 @@ wget https://raw.githubusercontent.com/ShijazKS/Quran-Reciters/6b8f1ab43e6249fba
 ```
 Makes install.sh runnable & run it.
 ```bash
-chmod +x intall.sh
+chmod +x install.sh
 ./install.sh
 ```
 
